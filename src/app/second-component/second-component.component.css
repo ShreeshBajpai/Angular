@@ -1,0 +1,27 @@
+.m-footer{
+    display: block;
+    width: 250px;
+    margin: 0 auto;
+}
+.m-footer .m-f-lang > ul:first-child{
+    float: left;
+}
+.m-footer .m-f-lang > ul:last-child{
+    float: right;
+}
+.m-footer .m-f-lang > ul li{
+    list-style: none;
+}
+
+.m-footer .m-f-lang > ul > li > a{
+    text-decoration: none;
+    color: #777;
+}
+
+.m-footer .links > a{
+    display: inline-block;
+    margin: 0 10px;
+    text-decoration: none;
+    color: #777;
+    font-weight: 500;
+}
